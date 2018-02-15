@@ -1,3 +1,0 @@
-﻿displayName = ConvenientConverions
-author = VenalFax
-version = 1.0.0.2
